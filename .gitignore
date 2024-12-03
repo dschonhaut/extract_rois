@@ -1,0 +1,12 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+*.toc
+*.pkg
+*.zip
+*.html
+*.txt
